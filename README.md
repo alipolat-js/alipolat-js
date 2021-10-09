@@ -30,6 +30,11 @@ _**I try to learn new things and improve myself.**_
 <br />
 <br />
 
+_**I don't add comment lines to explain my codes. My codes are already self explanatory.**_
+
+<br />
+<br />
+
 ![Ali POLAT's GitHub stats](https://github-readme-stats.vercel.app/api?username=alipolat-js&show_icons=true&theme=highcontrast)
 
 <br />
