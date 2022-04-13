@@ -12,6 +12,8 @@ _**I try to learn new things and improve myself.**_
 [<img align="left" alt="-alipolat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="__alipolat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="alipolat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dribbble.svg" />][dribbble]
+[<img align="left" alt="alipolat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
+
 
 <br />
 <br />
@@ -46,3 +48,5 @@ _**I don't add comment lines to explain my codes. My codes are already self expl
 [twitter]: https://twitter.com/_alipolat
 [instagram]: https://instagram.com/__alipolat
 [linkedin]: https://www.linkedin.com/in/-alipolat
+[dribbble]: https://dribbble.com/alipolat
+[medium]: https://ali-polat.medium.com/
