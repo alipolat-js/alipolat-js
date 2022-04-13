@@ -1,8 +1,16 @@
 ### Hi there, I'm Ali
 
-## I'm a WEB Developer, Coding is my life !
+## Hello, I'm Ali POLAT. I'm Full Stack Developer
 
-_**I try to learn new things and improve myself.**_
+_**Although my main area of expertise is full stack web development, I take care of every part of software development and I love the job.**_
+<br />
+_**I develop WEB, Mobile, Game etc.**_
+<br />
+_**I am constantly trying to learn new things and share what I know with other people.**_
+<br />
+_**My goal is to one day establish my own startup and my own school.**_
+<br />
+_**I do mountain hiking and grow plants as a hobby.**_
 
 <br />
 
@@ -13,10 +21,6 @@ _**I try to learn new things and improve myself.**_
 [<img align="left" alt="__alipolat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="alipolat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dribbble.svg" />][dribbble]
 [<img align="left" alt="alipolat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
-
-### Contact:
-[contact@alipolat.tech](mailto:contact@alipolat.tech)
-[business@alipolat.tech](mailto:business@alipolat.tech)
 
 <br />
 <br />
@@ -33,10 +37,11 @@ _**I try to learn new things and improve myself.**_
 
 <br />
 <br />
-<br />
-<br />
 
-_**I don't add comment lines to explain my codes. My codes are already self explanatory.**_
+### Contact:
+**contact@alipolat.tech**
+<br />
+**business@alipolat.tech**
 
 <br />
 <br />
