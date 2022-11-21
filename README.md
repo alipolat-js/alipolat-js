@@ -34,9 +34,6 @@ _**Currently, I own a company on my own behalf and offer web and mobile solution
 ### Also, to see my previous services and references, visit:
 **[works.alipolat.tech](https://alipolat.tech#services)**
 
-<br />
-<br />
-
 ### Contact:
 **contact@alipolat.tech**
 <br />
