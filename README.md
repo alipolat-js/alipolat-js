@@ -1,6 +1,6 @@
 ### Hi there, I'm Ali
 
-## Hello, I'm Ali POLAT. I'm Full Stack Developer
+## I'm Full Stack Developer
 
 _**I am a Full Stack Developer with experience developing frontend and backend systems.**_
 <br /><br />
