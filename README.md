@@ -6,15 +6,13 @@ _**I am a Full Stack Developer with experience developing frontend and backend s
 <br /><br />
 _**I have a passion for learning new technologies and creating applications that solve real-world problems. I am a self-taught developer always looking for new challenges and opportunities to learn and grow.**_
 <br /><br />
-_**I share my knowledge and experience on my blog and I share  open source projects for the expansion and development of the software development community. If you are interested, you can visit:[blog.alipolat.tech](https://blog.alipolat.tech)**_
+_**I share my knowledge and experience on my blog and I share  open source projects for the expansion and development of the software development community. If you are interested, you can visit:[blog.alipolat.co](https://blog.alipolat.co)**_
 <br /><br />
 _**I took the first steps of my career, which I have been continuing professionally for 3 years, with my interest in this job in my childhood. I developed my first game at the age of 10 and my first web page at the age of 11.**_
 <br /><br />
-_**My goal is to one day establish my own startup and my own school.**_
-<br /><br />
 _**At the beginning of 2020, I got my first job as a freelance full stack developer and continued to work as a freelancer for a while.**_
 <br /><br />
-_**I met the Scoutli Team in June 2021 and we worked together for almost a year. I created the landing page, the authentication system, and the first product dashboard from ground to sky. I've worked closely with the product team and backend developers to get the most out of this. While doing all this, I gained experience in project management, project architecture, project security and many other big jobs. great pride for me During this process, I started as a Frontend Developer, became the team leader of the team and left the team to work freelance at the end of 10 months.**_
+_**I met the Scoutli Team in June 2021 and we worked together for almost a year. I created the landing page, the authentication system, and the first product dashboard from ground to sky. I've worked closely with the product team and backend developers to get the most out of this. While doing all this, I gained experience in project management, project architecture, project security and many other big jobs. Great pride for me during this process, I started as a Frontend Developer, became the Team Leader of the team and left the team to work freelance at the end of 10 months.**_
 <br /><br />
 _**Currently, I own a company on my own behalf and offer web and mobile solutions to companies and individuals in line with their needs.**_
 <br /><br />
@@ -29,15 +27,13 @@ _**Currently, I own a company on my own behalf and offer web and mobile solution
 <br />
 
 ### Visit my website to see my workspaces
-**[alipolat.tech](https://alipolat.tech#services)**
+**[alipolat.tech](https://alipolat.co#services)**
 
 ### Also, to see my previous services and references, visit:
-**[works.alipolat.tech](https://alipolat.tech#services)**
+**[works.alipolat.co](https://works.alipolat.co)**
 
 ### Contact:
-**contact@alipolat.tech**
-<br />
-**business@alipolat.tech**
+**[contact@alipolat.co](mailto:contact@alipolat.co)**
 
 <br />
 <br />
