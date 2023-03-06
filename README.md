@@ -27,7 +27,7 @@ _**Currently, I own a company on my own behalf and offer web and mobile solution
 <br />
 
 ### Visit my website to see my workspaces
-**[alipolat.tech](https://alipolat.co#services)**
+**[alipolat.co](https://alipolat.co)**
 
 ### Also, to see my previous services and references, visit:
 **[works.alipolat.co](https://works.alipolat.co)**
